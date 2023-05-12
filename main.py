@@ -3,6 +3,7 @@ import numpy as np
 import streamlit as st
 import time
 import pickle as pkl
+import skops.io as sio
 from streamlit_option_menu import option_menu
 
 
