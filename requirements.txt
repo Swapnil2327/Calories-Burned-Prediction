@@ -1,6 +1,0 @@
-﻿streamlit
-requests
-numpy
-pandas
-streamlit_option_menu
-sklearn
